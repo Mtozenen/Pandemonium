@@ -1,0 +1,47 @@
+.headline{
+    margin-top: 150px;
+    margin-left: 550px;
+    margin-right: 100px;
+}
+
+.Search-tab{
+    background-color: #EAFDFC;
+    padding-left: 630px;
+}
+
+.Search-tab box{
+    width: 100px;
+    height: 50px;
+    border:black 5px;
+    color: black;
+    background-color: #ADA2FF;
+    margin-left: 0px;
+}
+
+.box-left{
+    background-color: #2C74B3;
+    float: left;
+    width: 490px;
+    height: 210px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.box-mid{
+    background-color: #86C8BC;
+    padding-top: 10px;
+    width: 490px;
+    float: left;
+    height: 200px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.box-right{
+    background-color: #CEEDC7;
+    padding-top: 10px;
+    width: 490px;
+    float: left;
+    height: 200px;
+    text-align: center;
+}
